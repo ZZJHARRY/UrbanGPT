@@ -199,6 +199,9 @@ Please first clone the repo and install the required environment, which can be d
 ```shell
 conda create -n urbangpt python=3.9.13
 
+# Can run the following after creating the conda virtual environment.
+# source ~/miniconda3/etc/profile.d/conda.sh
+
 conda activate urbangpt
 
 # Torch with CUDA 11.7
